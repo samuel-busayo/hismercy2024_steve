@@ -1,0 +1,27 @@
+body {background-color: black;}
+.poster {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 60px;
+}
+
+h1 {
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800px;
+    font-style: italic;
+    text-align: center;
+}
+p {
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    text-align: justify;
+}
+.Harvest {
+    border: 5px solid white;
+    width: 100%;
+}
